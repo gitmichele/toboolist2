@@ -11,7 +11,12 @@ body{
     background-size: cover;
 }
 
+main{
+    width: 50%;
+    margin: auto;
+}
 
+/* header con logo in alto a sx */
 header{
     padding: 20px 20px;
 }
@@ -24,4 +29,29 @@ header span{
     vertical-align: middle;
     font-size: 30px;
     color: lightgrey;
+}
+
+
+/* navigator con pulsanti */
+
+nav{
+    text-align: center;
+    margin: 80px 0;
+}
+
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.black{
+    color: white;
+    background-color: gray;
+}
+
+.white{
+    color: black;
+    background-color: white;
 }
