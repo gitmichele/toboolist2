@@ -67,7 +67,7 @@ nav{
 
 
 /* sezione giorno e data */
-.title{
+.top{
     background-color: #00000099;
     color: white;
 }
@@ -84,7 +84,7 @@ nav{
 
 
 /* sezione con lista */
-.list{
+.core{
     background-color: white;
     height: 400px;
 }
