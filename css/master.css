@@ -16,6 +16,8 @@ main{
     margin: auto;
 }
 
+
+
 /* header con logo in alto a sx */
 header{
     padding: 20px 20px;
@@ -32,8 +34,8 @@ header span{
 }
 
 
-/* navigator con pulsanti */
 
+/* navigator con pulsanti */
 nav{
     text-align: center;
     margin: 80px 0;
@@ -54,4 +56,24 @@ nav{
 .white{
     color: black;
     background-color: white;
+}
+
+
+
+/* sezione giorno e data */
+.title-container{
+    border-radius: 10px;
+    background-color: #00000099;
+    padding: 40px 10% 60px;
+    color: white;
+}
+
+
+#title{
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+
+#date{
+    font-size: 30px;
 }
