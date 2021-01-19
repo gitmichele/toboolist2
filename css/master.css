@@ -9,5 +9,19 @@ body{
     background-image: url(../img/bg.jpg);
     background-attachment: fixed;
     background-size: cover;
-    /* background-position: center top; */
+}
+
+
+header{
+    padding: 20px 20px;
+}
+
+header img{
+    vertical-align: middle;
+}
+
+header span{
+    vertical-align: middle;
+    font-size: 30px;
+    color: lightgrey;
 }
