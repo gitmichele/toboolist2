@@ -128,3 +128,18 @@ li .li-head{
 li span{
   position: absolute;
 }
+
+
+
+/* footer con parole a caso */
+footer{
+    width: 50%;
+    margin: auto;
+    background-color: #00000099;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    text-align: center;
+    padding: 10px;
+}
